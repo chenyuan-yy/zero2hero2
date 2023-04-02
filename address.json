@@ -1,0 +1,10 @@
+{
+	"localhost": {
+		"ProxyAdmin": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+		"MyPeanut": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+	},
+	"bnbtest": {
+		"ProxyAdmin": "0x39d258c6503A2C599fA63E6592BCEeb28a498dA6",
+		"MyPeanut": "0xA764B787D41B266F72eD221ef1125D367500c974"
+	}
+}
